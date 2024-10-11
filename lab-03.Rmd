@@ -21,11 +21,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
-
-
-
-
+the visualisation is denying the respect of mathematics because the difference between 380 and 466 is less than 765 and 466 and the difference in the area of the bar does not accurately represent that.
 
 ## Image 2
 
@@ -33,8 +29,8 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
-
+what does the pie chart even represent 
+data and mathematically incorrect - we don't know what the segements of the pie chart even represents - it is also lacking color. 
 
 
 
@@ -44,7 +40,11 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+- overlap in the data
+- did not put numbers on the y axis and x axis / no title
+- no meaning for the size of the circle
+- don't know what the colors of the circles mean
+- overlap - the colors mix 
 
 
 
@@ -55,11 +55,10 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
-
-
-
-
+- data - untidy data: merged areas
+- axis numbers are not proportionate 
+- numbers of the x axis compared to the area makes no sense 
+- not appropriate way to show the data 
 
 # Exercises
 
